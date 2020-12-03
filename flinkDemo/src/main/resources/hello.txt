@@ -1,0 +1,22 @@
+Fires are potentially the most destructive natural disaster in forested areas [ 1 , 2 ] that burn millions
+of hectares annually [ 3 , 4 ] and are responsible for the loss of biodiversity, soil quality, and CO 2
+capture [ 5 ]. The susceptibility of the forests and their adjacent areas, i.e., human settlements and
+infrastructures, to fires is a major concern to the communities in many land ecosystems of the
+world [ 6 – 12 ]. Increased changes in socioeconomic processes and climate that induced extensive
+modification of natural environment [ 13 , 14 ] and prolonged drought periods [ 15 – 19 ] have placed strong
+demands on authorities and decision makers to temporally and spatially delineate the forested areas in
+terms of susceptibility to fires [ 6 , 11 , 20 ]. Identifying areas with high/very high fire susceptibility must be
+undertakentosuccessfullydesignfiremanagementplans[ 21 ]andallocatefirefightingresources[ 22 – 26 ].
+Tothisend, robustapproachesandtoolsarerequiredtoenablethemanagersandengineerstoaccurately
+estimate the time, location, and extent of future fires [ 8 , 10 , 12 , 27 – 29 ]. The improvements in techniques
+for predicting fire susceptibility and delineating the forested areas into different susceptibility levels
+can help forest managers and policy makers to achieve a better understanding of fires that facilitates
+the development of prevention measures for the fire-prone forests [4,30].
+In forest fire prediction, however, it is difficult to compile sufficient amounts of spatially explicit
+geo-environmental data, particularly over large-scale forests, due to field survey difficulties and
+budgetary constraints. Over the past decade, machine learning methods have successfully reached
+the primacy as a replacement to the traditional field-survey methods for the prediction of forest fire
+susceptibility by elucidating the relationship between historic fire events and different explanatory
+variables in order to predict future fires [20]. Examples for machine learning methods suggested and
+used for forest fire prediction include decision tree based classifiers [ 31 , 32 ], artificial neural network
+(ANN) [33,34], neuro-fuzzy [27,35–37], and support vector machine [7,33,38].

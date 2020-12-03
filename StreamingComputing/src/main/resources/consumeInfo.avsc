@@ -1,0 +1,13 @@
+{
+    "type":"record",
+    "name":"consumeInfo",
+    "fields":[
+        { "name":"user_id", "type":"string" },
+        { "name":"credit_id", "type":"string" },
+        { "name":"credit_type", "type":"string" },
+        { "name":"consume_time", "type":"string" },
+        { "name":"consume_city", "type":"string" },
+        { "name":"consume_type", "type":"string" },
+        { "name":"consume_money", "type":"string" }
+    ]
+}

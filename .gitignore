@@ -1,0 +1,7 @@
+# Project exclude paths
+/flinkDemo/target/
+/hiveDemo/target/
+/javaTest/target/
+/kafkaDemo/target/
+/sparkDemo/target/
+/StreamingComputing/target/
